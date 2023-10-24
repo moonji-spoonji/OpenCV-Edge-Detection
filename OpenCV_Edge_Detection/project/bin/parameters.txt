@@ -1,0 +1,2 @@
+11.jpg 11_gaus-1.ppm opencv gausobel5
+baboon.pgm baboon-sobel3-1.pgm opencv sobel3

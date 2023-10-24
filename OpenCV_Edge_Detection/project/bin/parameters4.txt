@@ -1,0 +1,3 @@
+Lenna.png Lenna-gaus-1.ppm opencv gausobel5
+Lenna.png Lenna-extra-1.ppm opencv extraCredit
+Lenna.png Lenna-canny-5.pgm opencv canny
